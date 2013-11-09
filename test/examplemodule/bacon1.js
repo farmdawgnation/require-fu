@@ -1,3 +1,3 @@
-module.export = function(bacon) {
+module.exports = function(bacon) {
   bacon.sammich = 1;
 }

@@ -1,3 +1,3 @@
-module.export = function(bacon) {
-  bacon.awesome = 99;
+module.exports = function(bacon) {
+  bacon.zoooom = 99;
 }

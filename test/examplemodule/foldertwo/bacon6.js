@@ -1,3 +1,3 @@
-module.export = function(bacon) {
-  bacon.awesome = 6;
+module.exports = function(bacon) {
+  bacon.wheeeee = 6;
 }

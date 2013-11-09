@@ -7,7 +7,7 @@ the goal of this little project is to try and implement a version of require tha
 apply to a directory. Such that if you say...
 
 ```javascript
-requirefu('./somedir')(bacon);
+requireFu(__dirname + '/somedir')(bacon);
 ```
 
 That `somedir` is searched recursively, and every module under that path should export a function at the
