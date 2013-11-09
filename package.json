@@ -19,7 +19,7 @@
     "url": "http://farmdawgnation.com"
   },
   "files": ["lib"],
-  "main": "lib",
+  "main": "lib/index.js",
   "engines": {
     "node": "0.10.x"
   },
