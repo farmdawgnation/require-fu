@@ -1,6 +1,6 @@
 {
   "name": "require-fu",
-  "version": "1.0.0",
+  "version": "1.0.1-SNAPSHOT",
   "description": "Recursive injection-style requires for directories.",
   "keywords": "require directory requirefu recursive",
   "homepage": "https://github.com/farmdawgnation/require-fu",
