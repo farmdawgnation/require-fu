@@ -21,6 +21,6 @@
     "mocha": "*"
   },
   "scripts": {
-    "test": "./node_modules/.bin/mocha -u tdd -R spec --recursive --timeout 2000"
+    "test": "./node_modules/.bin/mocha -u tdd -R spec --timeout 2000"
   }
 }
