@@ -1,8 +1,8 @@
 {
   "name": "require-fu",
   "version": "0.0.1-SNAPSHOT",
-  "description": "Directory requires that don't suck.",
-  "keywords": "require directory requirefu",
+  "description": "Recursive injection-style requires for directories.",
+  "keywords": "require directory requirefu recursive",
   "homepage": "https://github.com/farmdawgnation/require-fu",
   "bugs": {
     "url": "https://github.com/farmdawgnation/require-fu/issues"
