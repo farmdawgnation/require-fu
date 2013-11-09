@@ -1,7 +1,7 @@
 # require-fu
 
 **Require-fu** is a library designed to provide dependency injection style requires recursively
-for directories.
+for directories. 
 
 ## Introduction
 
